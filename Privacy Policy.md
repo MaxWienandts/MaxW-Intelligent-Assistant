@@ -10,7 +10,7 @@ Limited technical information is sent (such as IP addresses included in the HTTP
 
 **Statistical information**
 A small set of non-identifiable information is sent to one or more of the organisations below for statistical information about app usage, device type and capabilities. Statistical service providers:
--	Microsoft
+-	[Microsoft](http://www.microsoft.com/)
 
 **Third parties**
 If the app makes use of third-party services, their usage of information is excluded from this privacy policy. You will be clearly made aware of the third parties involved in the app.
