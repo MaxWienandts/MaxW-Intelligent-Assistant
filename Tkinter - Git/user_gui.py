@@ -61,7 +61,7 @@ def clean_chat_history():
 root = tk.Tk()
 root.state('zoomed') # Open with maximized screen
 # Change window icon and title
-root.iconbitmap(resource_path('META & Microsoft Team Up on LlaMA 2.ico'))
+root.iconbitmap(resource_path('Llama-2-2147x2147-20p.ico'))
 root.title('Chat with Your PC Llama2')
 
 # Make the root window's grid expand to fit the window size
