@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy applies to the Chat with your PC Llama 2 app (hereby referred to as "Application") for Windows devices that was created by Max Eduardo Lazarini Wienandts (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the MaxW Intelligent Assistant app (hereby referred to as "Application") for Windows devices that was created by Max Eduardo Lazarini Wienandts (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 This application does not collect or transmit any user's personally identifiable information. No personal information is used, stored, secured, or disclosed by services this application works with. However, an internet connection is necessary if the user decides to navigate to the donate PayPal page (https://www.paypal.com/donate/?hosted_button_id=2F444HZGJBNX6). Once the user decides to do so, the user will leave the application and access their default internet navigator.
