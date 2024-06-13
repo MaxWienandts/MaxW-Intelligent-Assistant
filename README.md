@@ -10,3 +10,14 @@ There are 4 versions available:
 - Docker: The streamlit version running inside a docker container.
 - PyInstaller: An executable that runs the Streamlit app.
 - Tkinter: A Windows version using Tkinter and C# with an MSIX installer.
+
+
+
+Tkinter Windows version sample images:
+![image](https://github.com/MaxWienandts/chat_with_your_PC_Llama_2/blob/main/Sample%20images/1.png)
+---
+![image](https://github.com/MaxWienandts/chat_with_your_PC_Llama_2/blob/main/Sample%20images/2.png)
+---
+![image](https://github.com/MaxWienandts/chat_with_your_PC_Llama_2/blob/main/Sample%20images/3.png)
+---
+![image](https://github.com/MaxWienandts/chat_with_your_PC_Llama_2/blob/main/Sample%20images/4.png)
