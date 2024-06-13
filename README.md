@@ -21,3 +21,9 @@ Tkinter Windows version sample images:
 ![image](https://github.com/MaxWienandts/chat_with_your_PC_Llama_2/blob/main/Sample%20images/3.png)
 ---
 ![image](https://github.com/MaxWienandts/chat_with_your_PC_Llama_2/blob/main/Sample%20images/4.png)
+
+
+Streamlit sample images:
+![image](https://github.com/MaxWienandts/chat_with_your_PC_Llama_2/blob/main/Sample%20images/Streamlit%201.png)
+---
+![image](https://github.com/MaxWienandts/chat_with_your_PC_Llama_2/blob/main/Sample%20images/Streamlit%202.png)
